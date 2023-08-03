@@ -3,5 +3,5 @@ server:
 
 message: configuration via config-server
 
-bills: [5,10,20,50,100,500,1000]
+bills: "5,10,20,50,100,500,1000"
 cash-ammount-max: 500000
